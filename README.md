@@ -13,7 +13,7 @@ Here we list all the specifications collected by the team for the new website.
 
 ### Landing Page
 
-Quoting Jason: 
+Quoting Jason:
 
 > I love that we showcase how easy some concepts are in Dancer right on the
 > landing page. I am not sold, however, in cycling them through on the carousel.
@@ -28,7 +28,6 @@ switch from one example to another, on purpose. Like blog featured articles.
 
 A dedicated section for all the conferences, with videos from previous events,
 schedule for conferences to come, like a "PerlDancer on Tour" page.
-
 
 ### Documentation
 
@@ -60,4 +59,3 @@ Fast, Fun, Easy, Productive.
 A revamp of that section, with a better, more eye-candy layout. Probably killing
 the thumbnails is a good idea. It's hard to maintain and looks not that good.
 Probably a simplie list is better, like Sinatrarb.com does.
-
